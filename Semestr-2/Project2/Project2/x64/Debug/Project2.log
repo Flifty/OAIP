@@ -1,7 +1,0 @@
-﻿  main.c
-C:\Users\Danya\Учеба\Project2\Project2\main.c(30,5): warning C4013: input: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Danya\Учеба\Project2\Project2\main.c(31,5): warning C4013: output: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Danya\Учеба\Project2\Project2\main.c(34,17): warning C4013: menu: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Danya\Учеба\Project2\Project2\main.c(37,13): warning C4013: deleteStruct: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Danya\Учеба\Project2\Project2\main.c(43,13): warning C4013: shellSort: нет определения; предполагается "extern" с возвратом типа "int"
-  Project2.vcxproj -> C:\Users\Danya\Учеба\Project2\x64\Debug\Project2.exe
