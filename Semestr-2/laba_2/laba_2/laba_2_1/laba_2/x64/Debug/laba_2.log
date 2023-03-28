@@ -1,0 +1,10 @@
+﻿  functions.c
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2\laba_2\functions.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2\laba_2\functions.c(117,9): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2\laba_2\functions.c(110,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2\laba_2\functions.c(153,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2\laba_2\functions.c(163,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2\laba_2\functions.c(172,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2\laba_2\functions.c(193,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2\laba_2\functions.c(68): warning C4715: compare: значение возвращается не при всех путях выполнения
+  laba_2.vcxproj -> C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2\x64\Debug\laba_2.exe

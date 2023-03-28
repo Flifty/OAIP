@@ -1,0 +1,7 @@
+﻿  functions.c
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2_2\laba_2_2\functions.c(48,31): warning C4267: функция: преобразование из "size_t" в "long"; возможна потеря данных
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2_2\laba_2_2\functions.c(79,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2_2\laba_2_2\functions.c(89,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2_2\laba_2_2\functions.c(98,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2_2\laba_2_2\functions.c(119,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  laba_2_2.vcxproj -> C:\Users\Danya\Учеба\Семестр_2\ОАиП\laba_2_2\x64\Debug\laba_2_2.exe
